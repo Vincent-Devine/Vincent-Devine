@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**Vincent-Devine/Vincent-Devine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Portfolio](https://img.shields.io/badge/%F0%9F%94%97-Portfolio-lightgrey)](https://vincent-devine.github.io/)
+[![LinkedIn](https://img.shields.io/badge/Vincent%20DEVINE-0072b1?style=flat&logo=Linkedin)](https://www.linkedin.com/in/vincent-devine/)
 
-Here are some ideas to get you started:
+Programmer since 2018, I'm currently studying Game Programming at ISART Digital Paris.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- **Languages :** C, C++, C#, GLSL, Python, bash, Java
+- **Game engine :** Unity, Unreal Engine 4
+- **Tools :** Visual Studio, Visual Studio Code, Android Studio, QT creator
+- **Rendering :** OpenGL (Legacy and Modern), Raylib, Vulkan
+- **Versionning :** Git (GitHub and GitLab), SVN (TortoiseSVN)
+- **Programming concepts :** Prototypage, Multithreading, Scripting, Interfacing C++/Python
