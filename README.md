@@ -7,9 +7,9 @@ Programmer since 2018, I'm currently studying Game Programming at ISART Digital 
 
 ### Skills
 
-- **Languages :** C, C++, C#, GLSL, Python, bash, Java
-- **Game engine :** Unity, Unreal Engine 4
+- **Languages :** C++, C#, C, GLSL, Python, bash, Java
+- **Game engine :** Unity, Unreal Engine 4/5
 - **Tools :** Visual Studio, Visual Studio Code, Android Studio, QT creator
 - **Rendering :** OpenGL (Legacy and Modern), Raylib, Vulkan
 - **Versionning :** Git (GitHub and GitLab), SVN (TortoiseSVN)
-- **Programming concepts :** Prototypage, Multithreading, Scripting, Interfacing C++/Python, Animation Programming
+- **Programming concepts :** Prototypage, Multithreading, Scripting, Interfacing C++/Python, Animation Programming, Networking client-server, VR
