@@ -11,5 +11,6 @@ Programmer since 2018, I'm currently studying Game Programming at ISART Digital 
 - **Game engine :** Unity, Unreal Engine 4/5
 - **Tools :** Visual Studio, Visual Studio Code, Android Studio, QT creator
 - **Rendering :** OpenGL (Legacy and Modern), Raylib, Vulkan
-- **Versionning :** Git (GitHub and GitLab), SVN (TortoiseSVN)
-- **Programming concepts :** Prototypage, Multithreading, Scripting, Interfacing C++/Python, Animation Programming, Networking client-server, VR
+- **Libraries :** GLM, ImGUI, FMOD, Assimp, PhysX
+- **Versionning :** Git (GitHub and GitLab), Perforce (P4V), SVN (TortoiseSVN)
+- **Programming concepts :** Prototypage, Multithreading, Scripting, Interfacing C++/Python, Animation Programming, Networking client-server, VR, IA (Behavior Tree)
