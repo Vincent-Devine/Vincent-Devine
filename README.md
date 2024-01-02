@@ -13,4 +13,4 @@ Programmer since 2018, I'm currently studying Game Programming at ISART Digital 
 - **Rendering :** OpenGL (Legacy and Modern), Raylib, Vulkan
 - **Libraries :** GLM, ImGUI, FMOD, Assimp, PhysX
 - **Versionning :** Git (GitHub and GitLab), Perforce (P4V), SVN (TortoiseSVN)
-- **Programming concepts :** Prototypage, Multithreading, Scripting, Interfacing C++/Python, Animation Programming, Networking client-server, VR, IA (Behavior Tree, Neural Network, Machine Learning)
+- **Programming concepts :** Prototypage, Multithreading, Scripting, Interfacing C++/Python, Animation Programming, Networking client-server, VR, IA (Behavior Tree, FSM, Neural Network, Machine Learning)
