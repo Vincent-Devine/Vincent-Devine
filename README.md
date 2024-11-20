@@ -1,7 +1,7 @@
 # Hello there 👋
 
 ## About Me
-[![Portfolio](https://img.shields.io/badge/%F0%9F%94%97-Portfolio-lightgrey)]([https://vincent-devine.github.io/](https://vdevine.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/%F0%9F%94%97-Portfolio-lightgrey)](https://vdevine.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Vincent%20DEVINE-0072b1?style=flat&logo=Linkedin)](https://www.linkedin.com/in/vincent-devine/)
 
 - 🔭 I'm currently looking for an internship in video game programming for my master's degree in Game Programming at ISART DIGITAL.
